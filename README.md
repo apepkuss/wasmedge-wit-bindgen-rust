@@ -1,0 +1,1 @@
+# wasmedge-wit-bindgen-rust
